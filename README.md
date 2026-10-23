@@ -9,8 +9,8 @@ Teaching minds, building tools, and learning every day.
 
 <!-- ==================== ABOUT ME ==================== -->🚀 About Me
 
-Hey! I'm xcurrate, a developer from Indonesia who enjoys building tools, experimenting with ideas, and automating repetitive tasks.
-
+Hey! I'm xcurrate, an educator from Indonesia 🇮🇩 who loves exploring technology, writing code, and building useful tools in my free time.
+- 🍎 Working as a teacher on MITA, exploring technology by passion.
 - 🔭 Currently working on Multi-together and other automation projects.
 - 🌱 Exploring the JavaScript, TypeScript, Node.js, and Discord.js ecosystems.
 - 🤝 Interested in collaborating on open-source projects.
