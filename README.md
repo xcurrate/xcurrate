@@ -1,68 +1,113 @@
-<h1 align="center">Hi there, I'm xcurrate 👋</h1>
-<h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
+<div align="center">⚡ xcurrate
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xcurrate&label=Profile%20views&color=0e75b6&style=flat" alt="xcurrate" />
-</p>
+"Building things. Breaking limits. Learning every day."
 
----
+Developer • Automation Enthusiast • Builder
 
-### 🚀 About Me
+<br><a href="https://github.com/xcurrate">
+  <img src="https://img.shields.io/badge/GitHub-xcurrate-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<a href="https://github.com/xcurrate?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Repositories"/>
+</a><br><br>
 
-- 🔭 I’m currently working on **Multi-together** and other automation projects.
-- 🌱 I’m currently exploring **TypeScript** and **Discord.js** ecosystems.
-- 👯 I’m looking to collaborate on **open-source JavaScript/TypeScript projects**.
-- 💬 Ask me about **JavaScript, Node.js, or Discord bots**.
-- ⚡ Fun fact: I love building tools that automate daily tasks.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:111827,50:312E81,100:7C3AED&text=xcurrate&fontColor=FFFFFF&fontSize=55&fontAlignY=50&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%" alt="Profile banner"/></div>---
 
----
+"> whoami"
 
-### 🛠️ Tech Stack & Tools
+Hey! I'm xcurrate 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+I enjoy exploring new technologies, experimenting with code, and building projects that solve real problems or make things more interesting.
+
+From automation and bots to web applications and developer tools, I like turning ideas into working projects and continuously improving what I build.
+
+- 🔭 Exploring new ideas and building side projects.
+- 🤖 Interested in bots, automation, and developer tools.
+- 🌐 Experimenting with web applications and different technologies.
+- 🧪 Learning through building, debugging, and iteration.
+- 🚀 Always looking for something new to create.
+
+«Build it. Test it. Improve it. Repeat.»
 
 ---
 
-### 📊 GitHub Stats
+"> featured_projects"
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xcurrate&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="xcurrate's GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcurrate&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180em" />
-</p>
+A selection of projects from my GitHub repositories.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xcurrate&theme=radical&hide_border=true" alt="xcurrate's GitHub streak" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">🤖 Multi-together
+
+A project in my bot and automation collection.
+
+"Explore repository →" (https://github.com/xcurrate/Multi-together)
+
+</td>
+<td width="50%" valign="top">🎬 Free AI Video Upscaler
+
+An AI video upscaling project.
+
+"Explore repository →" (https://github.com/xcurrate/free-ai-video-upscaler)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">💸 FinaFlow
+
+A project exploring financial application development.
+
+"Explore repository →" (https://github.com/xcurrate/FinaFlow)
+
+</td>
+<td width="50%" valign="top">🎮 Neon Lane Clash
+
+A game-oriented project.
+
+"Explore repository →" (https://github.com/xcurrate/Neon-Lane-Clash)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">🧾 Split Bill
+
+A project focused on splitting bills.
+
+"Explore repository →" (https://github.com/xcurrate/split-bill)
+
+</td>
+<td width="50%" valign="top">🧩 MangaLoom Parser
+
+A parser-oriented project.
+
+"Explore repository →" (https://github.com/xcurrate/mangaloom_parser)
+
+</td>
+</tr>
+</table><div align="center">"Explore All My Repositories →" (https://github.com/xcurrate?tab=repositories)
+
+</div>---
+
+"> github_stats"
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=xcurrate&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcurrate&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used languages"/><br><img src="https://streak-stats.demolab.com?user=xcurrate&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/></div>---
+
+"> contribution_graph"
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=xcurrate&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/></div>---
+
+"> currently_focused_on"
+
+[+] Building new projects
+[+] Exploring automation
+[+] Improving existing code
+[+] Learning new technologies
+[+] Turning ideas into reality
 
 ---
 
-### 🌟 Featured Projects
+<div align="center">Thanks for stopping by! 💜
 
-- **[Multi-together](https://github.com/xcurrate/Multi-together)** - A JavaScript-based tool for multi-account automation (2 stars, 5 forks).
-- **[split-bill](https://github.com/xcurrate/split-bill)** - A TypeScript application for splitting bills easily.
-- **[FinaFlow](https://github.com/xcurrate/FinaFlow)** - A JavaScript project focused on financial flow management.
-- **[Wbot-sell-whb](https://github.com/xcurrate/Wbot-sell-whb)** - A Discord bot for selling WHB with automation features.
+Curiosity drives innovation.
 
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <!-- Ganti dengan link sosial media kamu yang sebenarnya -->
-  <a href="https://github.com/xcurrate" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:111827&height=100&section=footer" width="100%" alt="Footer banner"/></div>
