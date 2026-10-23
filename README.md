@@ -1,8 +1,9 @@
 <!-- ==================== HEADER ==================== --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=xcurrate&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Building%20tools%20that%20make%20life%20easier&descAlignY=58&descSize=16" width="100%" alt="xcurrate profile banner" />Hi there, I'm xcurrate 👋
 
-🇮🇩 Developer from Indonesia
+🍎 Teacher by Day, Coder by Passion 💻
 
-Automation enthusiast · Open-source explorer · Problem solver
+🇮🇩 Educator · Tech Enthusiast · Lifelong Learner
+Teaching minds, building tools, and learning every day.
 
 <br /><img src="https://komarev.com/ghpvc/?username=xcurrate&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile views" /></div>---
 
